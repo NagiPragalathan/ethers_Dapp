@@ -1,0 +1,16 @@
+Medium => Post
+LinkedIn => Post
+X => Post
+GitHub => Contribution
+
+GeeksForGeeks => Artical
+HackerRanker => Code Practice
+LeetCode => Algorithm
+
+StackOverflow
+CodePen
+
+Resume
+Portfolio
+
+
